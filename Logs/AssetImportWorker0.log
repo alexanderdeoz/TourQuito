@@ -1,0 +1,611 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'es' Physical Memory: 8115 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/User/Desktop/Consolas/TourGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53673
+Successfully changed project path to: C:/Users/User/Desktop/Consolas/TourGame
+C:/Users/User/Desktop/Consolas/TourGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/Consolas/TourGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   
+    VRAM:     4057 MB
+    Driver:   20.19.15.5063
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56720
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002178 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.784 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001050 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.398 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.8 MB.
+System memory in use after: 62.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1543.
+Total: 2.539400 ms (FindLiveObjects: 0.276600 ms CreateObjectMapping: 0.081200 ms MarkObjects: 2.093700 ms  DeleteObjects: 0.086000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Interior-Cuartos/Materials/door texture 3.mat
+  artifactKey: Guid(0125ca191f4148048a1c1ac3f5604a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/door texture 3.mat using Guid(0125ca191f4148048a1c1ac3f5604a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51b441e522c4ec63c534e4e9590bdfb1') in 1.018453 seconds
+  Import took 1.023819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Interior-Cuartos/Materials/New Material.mat
+  artifactKey: Guid(e49591f711e327749bdcda233ddb5739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/New Material.mat using Guid(e49591f711e327749bdcda233ddb5739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ba7fbacc9a4c9cbd92460a4498e103') in 0.071845 seconds
+  Import took 0.074497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Interior-Cuartos/Materials/emesive.mat
+  artifactKey: Guid(87124d99a2e036247997145a1e6ebe65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/emesive.mat using Guid(87124d99a2e036247997145a1e6ebe65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb290df233607cf0a43b00143d281280') in 0.079494 seconds
+  Import took 0.084355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Interior-Cuartos/Materials/the book texture.mat
+  artifactKey: Guid(34d6d6e0601f71746a3f73b41dabe7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/the book texture.mat using Guid(34d6d6e0601f71746a3f73b41dabe7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144f2b70de9479f9259468dff203c419') in 0.142241 seconds
+  Import took 0.146406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Interior-Cuartos/Materials/the chandelier.mat
+  artifactKey: Guid(c3c83b2f8e63ed040a4017762f424f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/the chandelier.mat using Guid(c3c83b2f8e63ed040a4017762f424f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82567ca6eafe45ecf261a9698bd10022') in 0.128655 seconds
+  Import took 0.133088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Interior-Cuartos/Materials/Cb.mat
+  artifactKey: Guid(e15b217798edf31438aa89a657069520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/Cb.mat using Guid(e15b217798edf31438aa89a657069520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7713d3b0412cc6414d065631193cccc9') in 0.166325 seconds
+  Import took 0.221324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Interior-Cuartos/Materials/marble_1_basecolor.mat
+  artifactKey: Guid(f991c1cd557e95f4d80bba54f5b172df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/marble_1_basecolor.mat using Guid(f991c1cd557e95f4d80bba54f5b172df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '812b345f31f5e1a75adbe980518aad96') in 0.355841 seconds
+  Import took 0.359362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Interior-Cuartos/Materials/Concrete wall smooth pillar texture.mat
+  artifactKey: Guid(d8e93e93675e6054ba325475d626aaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/Concrete wall smooth pillar texture.mat using Guid(d8e93e93675e6054ba325475d626aaca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '155f234b3e1fcef1b60c85fac8b018fb') in 0.051427 seconds
+  Import took 0.055321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Interior-Cuartos/Materials/TexturesCom_WoodFine0003_seamless_S.mat
+  artifactKey: Guid(1c46437e882e4c94795a67bf556442e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/TexturesCom_WoodFine0003_seamless_S.mat using Guid(1c46437e882e4c94795a67bf556442e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee293393b02e44d167353df34374d3f3') in 0.081807 seconds
+  Import took 0.085674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000683 seconds.
+  path: Assets/Interior-Cuartos/Materials/the chandelier hand.mat
+  artifactKey: Guid(35d4f1a86e2a24a4bba528520bf472ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/the chandelier hand.mat using Guid(35d4f1a86e2a24a4bba528520bf472ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0146845f33e9f22afd5ddef4806044da') in 0.207027 seconds
+  Import took 0.211924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Interior-Cuartos/Materials/door texture 2.mat
+  artifactKey: Guid(e8815d90ef87b1a41b65ccf137bc03a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/door texture 2.mat using Guid(e8815d90ef87b1a41b65ccf137bc03a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c25d76cd01add2ccd1b77ccda0ec5f') in 0.109250 seconds
+  Import took 0.112485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Interior-Cuartos/Materials/door.mat
+  artifactKey: Guid(fd469ad073511c04993da31368543b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/door.mat using Guid(fd469ad073511c04993da31368543b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af93cf72bf938bc5b35a08880274fddf') in 0.038271 seconds
+  Import took 0.041013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Interior-Cuartos/Materials/door texture 4.mat
+  artifactKey: Guid(a25d892bb22a044409043626140860f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/Materials/door texture 4.mat using Guid(a25d892bb22a044409043626140860f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4be05a4e565e737d3ff264ab70d4f30') in 0.036606 seconds
+  Import took 0.040799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 655.403786 seconds.
+  path: Assets/Interior-Cuartos/textures/bookcase/book-case-9.png
+  artifactKey: Guid(0ce9130e38aaca1469d31b5d3a9e528b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/bookcase/book-case-9.png using Guid(0ce9130e38aaca1469d31b5d3a9e528b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b9a43bf24ccac1c6f52a5dc5769416') in 0.216314 seconds
+  Import took 0.221802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Mixed_AO.png
+  artifactKey: Guid(eb8395457bc6c104e8b5cfcf9c97691c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Mixed_AO.png using Guid(eb8395457bc6c104e8b5cfcf9c97691c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c6b1e75ea4a673a51c37eb37f97818') in 0.112447 seconds
+  Import took 0.115216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Normal.png
+  artifactKey: Guid(68a9fe9476d135442931dd3f0db60626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Normal.png using Guid(68a9fe9476d135442931dd3f0db60626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0f340ab484750c35ea4482d6ddc7697') in 0.113540 seconds
+  Import took 0.117179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Base_Color.png
+  artifactKey: Guid(7e16dc50f0c90e945bf341f5807b4007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Base_Color.png using Guid(7e16dc50f0c90e945bf341f5807b4007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2df6c3a310e7bd4d64f28b0c322d8f') in 0.104483 seconds
+  Import took 0.107565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Normal_DirectX.png
+  artifactKey: Guid(2afc21b6193986f449969505ac62f9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Normal_DirectX.png using Guid(2afc21b6193986f449969505ac62f9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c689ed08e7badeb7e6639523479ae9d') in 0.136283 seconds
+  Import took 0.139057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Roughness.png
+  artifactKey: Guid(c51784080d00a4143a2481be6fd60247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Roughness.png using Guid(c51784080d00a4143a2481be6fd60247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3900b67ef5630d71b7dd37ceddd28ace') in 0.110892 seconds
+  Import took 0.113377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Metallic.png
+  artifactKey: Guid(2c5e6ee700ee2ce448220b7c37a5bf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Metallic.png using Guid(2c5e6ee700ee2ce448220b7c37a5bf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb032f2e169a14eb35e09bf21771ec54') in 0.107840 seconds
+  Import took 0.110365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Height.png
+  artifactKey: Guid(566c69f06d6d0944fa511552205d2485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/bookcase/bookcasewood_Height.png using Guid(566c69f06d6d0944fa511552205d2485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53313e0d85f15c740554a167b47d4dfd') in 0.096897 seconds
+  Import took 0.100196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Interior-Cuartos/textures/bookcase/New_Graph_normal.png
+  artifactKey: Guid(0611457103e948845906f0bb78e5eeac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/bookcase/New_Graph_normal.png using Guid(0611457103e948845906f0bb78e5eeac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650b266ef97a1a27b8eac7dd9cb23dcc') in 0.098296 seconds
+  Import took 0.100895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Metallic.png
+  artifactKey: Guid(a6875518f56e74f43957e8dfa97e4a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Metallic.png using Guid(a6875518f56e74f43957e8dfa97e4a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8498c0416b9afe865012a593278d536e') in 0.067972 seconds
+  Import took 0.072347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Base_Color.png
+  artifactKey: Guid(f69b0381dd2e0bc4987103d490444d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Base_Color.png using Guid(f69b0381dd2e0bc4987103d490444d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2b7bb3a4d95136d35735c5a5ad096e3') in 0.045002 seconds
+  Import took 0.049345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Mixed_AO.png
+  artifactKey: Guid(88acd088206b6534ebd54c5b5f6e0cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Mixed_AO.png using Guid(88acd088206b6534ebd54c5b5f6e0cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e16c8b77e728564b12737589d52316') in 0.105234 seconds
+  Import took 0.109651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Height.png
+  artifactKey: Guid(e23826739a3225b4f9d49f2d268bbfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Height.png using Guid(e23826739a3225b4f9d49f2d268bbfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47deeee198622d7e43f11beaac88875') in 0.085432 seconds
+  Import took 0.093655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Normal_DirectX.png
+  artifactKey: Guid(8fa8af0e9575a7345983c96007dfa169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Normal_DirectX.png using Guid(8fa8af0e9575a7345983c96007dfa169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2e879368113be98b71fcf6394c3059') in 0.080410 seconds
+  Import took 0.087272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Normal.png
+  artifactKey: Guid(687b17ee94e6d4f4fb442434c89c65ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Normal.png using Guid(687b17ee94e6d4f4fb442434c89c65ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed8ef6599b18739b342258c8cee9363e') in 0.057742 seconds
+  Import took 0.060836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Roughness.png
+  artifactKey: Guid(dfb59868fe93f8749b463c359d1575ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/chiar/wood the tabel and chaer.002_Roughness.png using Guid(dfb59868fe93f8749b463c359d1575ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de482fe5fc2e94e0b634458af71bbb3f') in 0.064873 seconds
+  Import took 0.067422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.518283 seconds.
+  path: Assets/Interior-Cuartos/textures/floor/marble_1_basecolor.png
+  artifactKey: Guid(1b5d37f7d9ff11f4da2a6afbbeb6956e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/floor/marble_1_basecolor.png using Guid(1b5d37f7d9ff11f4da2a6afbbeb6956e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74dc96ed87393899db82fc2ffa982690') in 0.018958 seconds
+  Import took 0.022359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Interior-Cuartos/textures/floor/marble_1_metallic.png
+  artifactKey: Guid(baa5e44ba29e40d43938dfbe07f20cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/floor/marble_1_metallic.png using Guid(baa5e44ba29e40d43938dfbe07f20cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ac8496fcfd1e6dc102e70f9c8f5707') in 0.064855 seconds
+  Import took 0.067921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Interior-Cuartos/textures/floor/marble_1_normal.png
+  artifactKey: Guid(83ce4516dcc63cc4bba36a70b989098d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/floor/marble_1_normal.png using Guid(83ce4516dcc63cc4bba36a70b989098d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '193e5736a077f8c2af787c79e1abeebb') in 0.043530 seconds
+  Import took 0.046179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003963 seconds.
+  path: Assets/Interior-Cuartos/textures/floor/marble_1_height.png
+  artifactKey: Guid(6709565d7c22df04fac8dca11ad0ae17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/floor/marble_1_height.png using Guid(6709565d7c22df04fac8dca11ad0ae17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da172991aef8a8e8ff38692decc112e') in 0.033323 seconds
+  Import took 0.037878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Interior-Cuartos/textures/floor/marble_1_roughness.png
+  artifactKey: Guid(1979c7757587fa14fa611fcd2f489241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/floor/marble_1_roughness.png using Guid(1979c7757587fa14fa611fcd2f489241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97cd97abe32fa8f50b718a694c8e9ec1') in 0.087645 seconds
+  Import took 0.090788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.570700 seconds.
+  path: Assets/Interior-Cuartos/textures/pillars/pilers_Base_Color.png
+  artifactKey: Guid(141e9872767692f4ebd522242465b376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/pillars/pilers_Base_Color.png using Guid(141e9872767692f4ebd522242465b376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa8a0222d5e699c61aa7cfafea7cb53') in 0.106032 seconds
+  Import took 0.109471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Interior-Cuartos/textures/pillars/pilers_Mixed_AO.png
+  artifactKey: Guid(cffd7f77141192c4283c3f20a3648952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/pillars/pilers_Mixed_AO.png using Guid(cffd7f77141192c4283c3f20a3648952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73e00490a2bcb9dee0c477d7c4bb1e8a') in 0.098793 seconds
+  Import took 0.101755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Interior-Cuartos/textures/pillars/pilers_Normal_DirectX.png
+  artifactKey: Guid(87bca9bbd9167244093c78802c9d7196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/pillars/pilers_Normal_DirectX.png using Guid(87bca9bbd9167244093c78802c9d7196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ab97bc2fd64eb7198a8a9ab91702fbc') in 0.130529 seconds
+  Import took 0.133722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Interior-Cuartos/textures/pillars/pilers_Height.png
+  artifactKey: Guid(bb7678138a245f546b00a8cc1aebcab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/pillars/pilers_Height.png using Guid(bb7678138a245f546b00a8cc1aebcab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '349faba4822db20280a6e095297354b0') in 0.124060 seconds
+  Import took 0.127053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Interior-Cuartos/textures/pillars/pilers_Roughness.png
+  artifactKey: Guid(0c3cf7abd203fcf44afe8a3a68f32722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/pillars/pilers_Roughness.png using Guid(0c3cf7abd203fcf44afe8a3a68f32722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '185e96fe4b701d4fb3d9cf10f89fe134') in 0.097973 seconds
+  Import took 0.100989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.179229 seconds.
+  path: Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Base_Color.png
+  artifactKey: Guid(5e7ae7b6d40af8046a4fb91f704fc0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Base_Color.png using Guid(5e7ae7b6d40af8046a4fb91f704fc0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd218a9f49b118aeb69d3c6219352fa48') in 0.098981 seconds
+  Import took 0.104283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Normal_DirectX.png
+  artifactKey: Guid(9e629a8860d3eff45938e5ae70616c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Normal_DirectX.png using Guid(9e629a8860d3eff45938e5ae70616c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd25bc8f24ec86c750b51435b42ef79fb') in 0.142888 seconds
+  Import took 0.145813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Height.png
+  artifactKey: Guid(f6d74558a7f33a14db041609fb3a6bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Height.png using Guid(f6d74558a7f33a14db041609fb3a6bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64544f1c661ac79e5b9d27df55ce1d29') in 0.105892 seconds
+  Import took 0.108604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Normal.png
+  artifactKey: Guid(7e0bc76c74224b446b30211d17986cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Normal.png using Guid(7e0bc76c74224b446b30211d17986cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf20f5562335c5dc6db793c7dc673aef') in 0.176900 seconds
+  Import took 0.182045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Mixed_AO.png
+  artifactKey: Guid(3bed35e66ecb78041aa0b96fd6cd774e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Mixed_AO.png using Guid(3bed35e66ecb78041aa0b96fd6cd774e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a15691b63889eb175e897469fa9dc262') in 0.131053 seconds
+  Import took 0.133972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Metallic.png
+  artifactKey: Guid(3969e14f96294e64b92308cff2dec6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Metallic.png using Guid(3969e14f96294e64b92308cff2dec6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9114520121f7d4d3cc467cd69fd88422') in 0.097333 seconds
+  Import took 0.100020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Roughness.png
+  artifactKey: Guid(6225238dbfaff5d4090a8b09a7c5b273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/roofrop/top_roof_wood_Roughness.png using Guid(6225238dbfaff5d4090a8b09a7c5b273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ab3f15eeb92370e4fb53578dbbb7eb2') in 0.138613 seconds
+  Import took 0.141892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Interior-Cuartos/textures/table/wood the tabel and chaer_Height.png
+  artifactKey: Guid(04fce0d1b2984044f80df82d3e9a2561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/table/wood the tabel and chaer_Height.png using Guid(04fce0d1b2984044f80df82d3e9a2561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd439291a4cd9b79b02df026a33118b1') in 0.132474 seconds
+  Import took 0.136022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Interior-Cuartos/textures/table/wood the tabel and chaer_Metallic.png
+  artifactKey: Guid(1b9dd10663d85524c97a1dce30867938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/table/wood the tabel and chaer_Metallic.png using Guid(1b9dd10663d85524c97a1dce30867938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f1229cebc47993010684729f0b9e0d1') in 0.101638 seconds
+  Import took 0.105799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Interior-Cuartos/textures/table/wood the tabel and chaer_Roughness.png
+  artifactKey: Guid(d177c5a015ed1184baba2e3eeaaf4080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/table/wood the tabel and chaer_Roughness.png using Guid(d177c5a015ed1184baba2e3eeaaf4080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6986a77f3999677d815f3e404f72073') in 0.118947 seconds
+  Import took 0.121505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Interior-Cuartos/textures/table/wood the tabel and chaer_Base_Color.png
+  artifactKey: Guid(59057fcbbe3585e4aac8d2878384dffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/table/wood the tabel and chaer_Base_Color.png using Guid(59057fcbbe3585e4aac8d2878384dffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad5977ad30ebc9a51b9ca4b40e19d3f') in 0.124562 seconds
+  Import took 0.127601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Interior-Cuartos/textures/table/wood the tabel and chaer_Normal_DirectX.png
+  artifactKey: Guid(4503d8d9d36a5ef4fb23dfd14c0cf6cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/table/wood the tabel and chaer_Normal_DirectX.png using Guid(4503d8d9d36a5ef4fb23dfd14c0cf6cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b797f6fdaa520cea82b899e2ad9e0e0') in 0.132041 seconds
+  Import took 0.134539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.143918 seconds.
+  path: Assets/Interior-Cuartos/textures/wall/brick_uneven_stones_ambient_occlusion.png
+  artifactKey: Guid(a1909448d6ca644458080707217bad03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/wall/brick_uneven_stones_ambient_occlusion.png using Guid(a1909448d6ca644458080707217bad03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6feb21dda09ea49869fe9ac394b38fcd') in 0.092352 seconds
+  Import took 0.098018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Interior-Cuartos/textures/wall/brick_uneven_stones_basecolor.png
+  artifactKey: Guid(0ea9e7e251b6ac74ca6b52cd06bbd260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/wall/brick_uneven_stones_basecolor.png using Guid(0ea9e7e251b6ac74ca6b52cd06bbd260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf7787b9fc6f24773fe1fb5b4ce11df') in 0.155566 seconds
+  Import took 0.158715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Interior-Cuartos/textures/wall/brick_uneven_stones_height.png
+  artifactKey: Guid(5edcb45eaf9139a4aacba54d9bfe2eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/wall/brick_uneven_stones_height.png using Guid(5edcb45eaf9139a4aacba54d9bfe2eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e8102152a06b25912407a64dad0597c') in 0.090165 seconds
+  Import took 0.094609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Interior-Cuartos/textures/wall/brick_uneven_stones_roughness.png
+  artifactKey: Guid(040e9f53653144143a76ecfa545ffe61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/wall/brick_uneven_stones_roughness.png using Guid(040e9f53653144143a76ecfa545ffe61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf1347bac7a67e95f7244a6faa0a182') in 0.097193 seconds
+  Import took 0.100268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Interior-Cuartos/textures/wall/brick_uneven_stones_normal.png
+  artifactKey: Guid(7d7dcec55d88282448c943fac54e8cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/wall/brick_uneven_stones_normal.png using Guid(7d7dcec55d88282448c943fac54e8cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59955047f2a8f0af7288e43a848efc7d') in 0.130484 seconds
+  Import took 0.133141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.333865 seconds.
+  path: Assets/Interior-Cuartos/textures/window/border.001_Base_Color.png
+  artifactKey: Guid(8c398636c58c4424f9d9f4fdec5383c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/window/border.001_Base_Color.png using Guid(8c398636c58c4424f9d9f4fdec5383c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a41b8e2bf4a9be1457655bfdd22eb3') in 0.029342 seconds
+  Import took 0.032785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Interior-Cuartos/textures/window/border.001_Normal.png
+  artifactKey: Guid(7e0545427c75da245b842585d8e155d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/window/border.001_Normal.png using Guid(7e0545427c75da245b842585d8e155d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4149f6b050cae522755ce3a4b10f92') in 0.105073 seconds
+  Import took 0.107988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Interior-Cuartos/textures/window/border.001_Roughness.png
+  artifactKey: Guid(aa90943cc567f004d8a93c8013376cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/window/border.001_Roughness.png using Guid(aa90943cc567f004d8a93c8013376cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2406f7c58dac72e23c4f412b5e587fd1') in 0.114208 seconds
+  Import took 0.118293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Interior-Cuartos/textures/window/border.001_Height.png
+  artifactKey: Guid(1d8dbcbe7eacc4b40b77f332dcdb204b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/window/border.001_Height.png using Guid(1d8dbcbe7eacc4b40b77f332dcdb204b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef61a9d8d0af2a5cc03845c95f709d06') in 0.041293 seconds
+  Import took 0.045495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Interior-Cuartos/textures/window/border.001_Metallic.png
+  artifactKey: Guid(e2dc3cf6ae48cc945a15c4b0dbb9dd27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/window/border.001_Metallic.png using Guid(e2dc3cf6ae48cc945a15c4b0dbb9dd27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bc19689bcedb7d24ab3c4702179306d') in 0.138948 seconds
+  Import took 0.142497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Interior-Cuartos/textures/window/border.001_Mixed_AO.png
+  artifactKey: Guid(2288772dfe442c3479aaa9400a2e484b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/window/border.001_Mixed_AO.png using Guid(2288772dfe442c3479aaa9400a2e484b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c630892c34d396fb9765d5fab1e1963') in 0.036393 seconds
+  Import took 0.039016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Interior-Cuartos/textures/window/trancpernt + base color 2.hdr
+  artifactKey: Guid(bdf51aaa8c595fd489ca6ac29006b09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/window/trancpernt + base color 2.hdr using Guid(bdf51aaa8c595fd489ca6ac29006b09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '252e8309985891af1bd348d3093ce9bb') in 0.150361 seconds
+  Import took 0.153905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Interior-Cuartos/textures/window/trancpernt + base color emmesive.hdr
+  artifactKey: Guid(0886c0e4b6e88fc45b83b22092e8b8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/window/trancpernt + base color emmesive.hdr using Guid(0886c0e4b6e88fc45b83b22092e8b8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '365344c365b2cff59ae9919fe0a39cd3') in 0.081651 seconds
+  Import took 0.085259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Interior-Cuartos/textures/window/iner.png
+  artifactKey: Guid(74bbac6cce5b5584f84349c71a45aaa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/window/iner.png using Guid(74bbac6cce5b5584f84349c71a45aaa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a4493908309a4be1887f94e9ac43a7') in 0.094456 seconds
+  Import took 0.097648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Interior-Cuartos/textures/window/trancpernt + base color1.png
+  artifactKey: Guid(fd62ef2b12249794bb40806d77d4eefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/window/trancpernt + base color1.png using Guid(fd62ef2b12249794bb40806d77d4eefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c8461b01da69ab8264d2c3180e4621') in 0.086312 seconds
+  Import took 0.089654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Interior-Cuartos/textures/window/border.001_Normal_DirectX.png
+  artifactKey: Guid(28975bea779fa4340835ed8ff138a750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Interior-Cuartos/textures/window/border.001_Normal_DirectX.png using Guid(28975bea779fa4340835ed8ff138a750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1143e59fb5c7497f5b0a1be505bdfcff') in 0.051340 seconds
+  Import took 0.055386 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
